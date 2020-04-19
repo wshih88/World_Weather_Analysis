@@ -5,6 +5,9 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 Required_Class_Practice.ipynb
+Googel_Nearby_Search.ipynb
+VacationPy.ipynb
+WeatherPy.ipnyb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
